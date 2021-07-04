@@ -1,0 +1,22 @@
+/target/
+target
+/.classpath
+/.war
+/.project
+/.settings/
+/*.iml
+.idea
+/doc/
+/catalina.base_IS_UNDEFINED/
+/log*/
+*.class
+*.rar
+# idea
+*.iml
+logs
+*.classpath
+# pytho
+venv
+__pycache__
+**DS_Store
+~**.pptx
