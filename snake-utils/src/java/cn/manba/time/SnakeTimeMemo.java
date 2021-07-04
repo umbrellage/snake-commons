@@ -18,8 +18,6 @@ public final class SnakeTimeMemo {
     /**
      * 将毫秒转化成秒
      * <p>
-     * 何以写此？代码有规范。此中有真义，欲辨已忘言
-     *
      * @param milli 毫秒时间戳
      * @return 秒数
      */
@@ -30,8 +28,6 @@ public final class SnakeTimeMemo {
     /**
      * 毫秒转LocalDateTime
      * <p>
-     * 为啥写这个函数呢，因为，记不住
-     *
      * @param milli 毫秒时间戳
      * @return LocalDateTime对象
      */
