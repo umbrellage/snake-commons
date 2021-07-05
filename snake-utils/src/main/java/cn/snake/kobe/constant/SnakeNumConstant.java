@@ -1,4 +1,4 @@
-package cn.manba.constant;
+package cn.snake.kobe.constant;
 
 /**
  * SnakeNumConstant

@@ -6,7 +6,7 @@
 
     <groupId>cn.snake.kobe</groupId>
     <artifactId>snake-starter</artifactId>
-    <version>v0.0.2</version>
+    <version>v0.0.3</version>
 
     <packaging>pom</packaging>
 
@@ -14,7 +14,7 @@
 
     <properties>
         <spring.aop.version>5.2.7.RELEASE</spring.aop.version>
-        <snake.utils.version>v0.0.2</snake.utils.version>
+        <snake.utils.version>v0.0.3</snake.utils.version>
     </properties>
 
     <dependencyManagement>

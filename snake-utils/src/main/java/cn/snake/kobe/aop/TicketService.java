@@ -1,4 +1,4 @@
-package cn.manba.aop;
+package cn.snake.kobe.aop;
 
 /**
  * TicketService

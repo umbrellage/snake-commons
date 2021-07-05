@@ -1,6 +1,6 @@
-package cn.manba.time;
+package cn.snake.kobe.time;
 
-import cn.manba.constant.SnakeNumConstant;
+import cn.snake.kobe.constant.SnakeNumConstant;
 
 import java.time.Instant;
 import java.time.LocalDateTime;
@@ -13,7 +13,6 @@ import java.time.ZoneId;
  * @date 2021-07-04
  */
 public final class SnakeTimeMemo {
-
 
     /**
      * 将毫秒转化成秒

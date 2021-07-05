@@ -1,4 +1,4 @@
-package cn.manba.aop.advice;
+package cn.snake.kobe.aop.advice;
 
 import org.springframework.aop.ThrowsAdvice;
 

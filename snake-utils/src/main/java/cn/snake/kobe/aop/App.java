@@ -1,9 +1,9 @@
-package cn.manba.aop;
+package cn.snake.kobe.aop;
 
-import cn.manba.aop.advice.TicketServiceAfterReturningAdvice;
-import cn.manba.aop.advice.TicketServiceAroundAdvice;
-import cn.manba.aop.advice.TicketServiceBeforeAdvice;
-import cn.manba.aop.advice.TicketServiceThrowsAdvice;
+import cn.snake.kobe.aop.advice.TicketServiceAfterReturningAdvice;
+import cn.snake.kobe.aop.advice.TicketServiceAroundAdvice;
+import cn.snake.kobe.aop.advice.TicketServiceBeforeAdvice;
+import cn.snake.kobe.aop.advice.TicketServiceThrowsAdvice;
 import org.aopalliance.aop.Advice;
 import org.springframework.aop.framework.ProxyFactoryBean;
 
